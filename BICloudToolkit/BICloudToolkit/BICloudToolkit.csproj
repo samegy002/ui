@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <RootNamespace>BICloudToolkit</RootNamespace>
+    <AssemblyName>BICloudToolkit</AssemblyName>
+    <Description>B-ICLOUD Apple Device Toolkit UI - Native C# Windows Forms Application</Description>
+    <Authors>B-ICLOUD Team</Authors>
+    <Version>2.0.0</Version>
+    <NeutralLanguage>en</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>
